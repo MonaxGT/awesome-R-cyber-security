@@ -25,5 +25,7 @@ A collection of awesome R-language libraries, documents, books, resources and co
 
 - [httr](https://github.com/r-lib/httr) - The aim of httr is to provide a wrapper for the curl package, customised to the demands of modern web APIs.
 
+- [rgeolocate](https://github.com/Ironholds/rgeolocate) - IP geolocation is a powerful tool to have if you're dealing with web data, and there are a couple of R packages that provide access to specific services, such as the legacy rgeoip package or Bob Rudis's ipapi. They're all spread about and have diffing interfaces, styles and requirements. (MaxMind)
+
 ## [Contributing](contributing.md)
 Your contributions are always welcome!
