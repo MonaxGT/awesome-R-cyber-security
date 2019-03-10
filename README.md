@@ -27,5 +27,9 @@ A collection of awesome R-language libraries, documents, books, resources and co
 
 - [rgeolocate](https://github.com/Ironholds/rgeolocate) - IP geolocation is a powerful tool to have if you're dealing with web data, and there are a couple of R packages that provide access to specific services, such as the legacy rgeoip package or Bob Rudis's ipapi. They're all spread about and have diffing interfaces, styles and requirements. (MaxMind)
 
+## Articles
+
+- [Network-visualization](http://kateto.net/network-visualization) - This is a comprehensive tutorial on network visualization with R. It covers data input and formats, visualization basics, parameters and layouts for one-mode and bipartite graphs; dealing with multiplex links, interactive and animated visualization for longitudinal networks; and visualizing networks on geographic maps.
+
 ## [Contributing](contributing.md)
 Your contributions are always welcome!
