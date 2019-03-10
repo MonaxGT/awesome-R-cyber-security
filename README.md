@@ -29,7 +29,11 @@ A collection of awesome R-language libraries, documents, books, resources and co
 
 ## Articles
 
+### Visualization
+
 - [Network-visualization](http://kateto.net/network-visualization) - This is a comprehensive tutorial on network visualization with R. It covers data input and formats, visualization basics, parameters and layouts for one-mode and bipartite graphs; dealing with multiplex links, interactive and animated visualization for longitudinal networks; and visualizing networks on geographic maps.
+
+- [ggnet](https://briatte.github.io/ggnet/) - The ggnet2 function is a visualization function to plot network objects as ggplot2 objects. It accepts any object that can be coerced to the  network class, including adjacency or incidence matrices, edge lists, or one-mode igraph network objects.
 
 ## [Contributing](contributing.md)
 Your contributions are always welcome!
